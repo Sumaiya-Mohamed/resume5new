@@ -1,0 +1,48 @@
+body{
+    background-image: url("images2/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+    margin: 35px;
+    border-style: ridge;
+    border-color:  blanchedalmond;
+    border-width: 10px;
+}
+
+header{
+    text-align: center;
+    border-bottom-style: ridge;
+    border-color: blanchedalmond;
+    border-width: 5px;
+    padding: 5px;
+}
+
+.img{
+        margin-top: 10px;
+        width: 45%;
+        height: 25%;
+        border-radius: 50%;
+        border: 4px solid blanchedalmond;
+        rotate: -15deg;
+    }
+ 
+aside{
+    position: relative; left: -10px; top:40px;
+}
+
+section{
+    padding-left: 5%;
+    padding-right: 25%;
+    position: relative; left: 270px; top:-80px;
+    border-left-style: ridge;
+    border-width: 5px;
+    border-color: blanchedalmond;
+}
+
+footer{
+    text-align: center;
+    border-top-style:ridge;
+    border-width: 5px;
+    border-color:  blanchedalmond;
+}
+
